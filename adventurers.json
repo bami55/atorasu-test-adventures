@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-08-31T10:51:57.436Z",
-  "count": 2,
+  "lastUpdated": "2025-08-31T23:55:53.716Z",
+  "count": 3,
   "adventurers": [
     {
       "id": 1,
@@ -17,6 +17,14 @@
       "vrcId": null,
       "createdAt": "2025-08-31T10:51:57.295Z",
       "updatedAt": "2025-08-31T10:51:57.295Z"
+    },
+    {
+      "id": 3,
+      "adventurerNo": 3,
+      "name": "てすとゆーざー３",
+      "vrcId": null,
+      "createdAt": "2025-08-31T23:55:53.645Z",
+      "updatedAt": "2025-08-31T23:55:53.645Z"
     }
   ]
 }
