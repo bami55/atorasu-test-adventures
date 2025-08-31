@@ -1,46 +1,14 @@
 {
-  "lastUpdated": "2025-08-31T07:40:36.459Z",
-  "count": 5,
+  "lastUpdated": "2025-08-31T10:42:14.443Z",
+  "count": 1,
   "adventurers": [
     {
       "id": 1,
       "adventurerNo": 1,
-      "name": "てすと１",
+      "name": "てすとゆーざー１",
       "vrcId": null,
-      "createdAt": "2025-08-31T03:47:27.863Z",
-      "updatedAt": "2025-08-31T03:47:27.863Z"
-    },
-    {
-      "id": 5,
-      "adventurerNo": 2,
-      "name": "てすと２",
-      "vrcId": null,
-      "createdAt": "2025-08-31T03:51:43.084Z",
-      "updatedAt": "2025-08-31T07:39:33.307Z"
-    },
-    {
-      "id": 3,
-      "adventurerNo": 3,
-      "name": "てすと３",
-      "vrcId": null,
-      "createdAt": "2025-08-31T03:47:41.673Z",
-      "updatedAt": "2025-08-31T03:47:41.673Z"
-    },
-    {
-      "id": 4,
-      "adventurerNo": 4,
-      "name": "てすと４",
-      "vrcId": null,
-      "createdAt": "2025-08-31T03:50:48.511Z",
-      "updatedAt": "2025-08-31T03:50:48.511Z"
-    },
-    {
-      "id": 6,
-      "adventurerNo": 5,
-      "name": "てすと５",
-      "vrcId": null,
-      "createdAt": "2025-08-31T07:40:36.448Z",
-      "updatedAt": "2025-08-31T07:40:36.448Z"
+      "createdAt": "2025-08-31T10:42:11.102Z",
+      "updatedAt": "2025-08-31T10:42:11.102Z"
     }
   ]
 }
