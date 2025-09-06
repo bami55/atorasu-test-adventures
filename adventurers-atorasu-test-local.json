@@ -1,0 +1,14 @@
+{
+  "lastUpdated": "2025-09-06T08:04:38.078Z",
+  "count": 1,
+  "adventurers": [
+    {
+      "id": 1,
+      "adventurerNo": 1,
+      "name": "てすとゆーざー１",
+      "vrcId": null,
+      "createdAt": "2025-09-06T08:04:36.947Z",
+      "updatedAt": "2025-09-06T08:04:36.947Z"
+    }
+  ]
+}
